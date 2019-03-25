@@ -1,0 +1,19 @@
+//
+//  TabBarController.swift
+//  appbymeofmeforme
+//
+//  Created by itolab on 2019/03/03.
+//  Copyright © 2019年 hiromusaijo. All rights reserved.
+//
+
+import UIKit
+
+class TabBarController: UITabBarController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        // Do any additional setup after loading the view.
+    }
+
+}
